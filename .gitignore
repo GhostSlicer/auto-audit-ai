@@ -1,0 +1,4 @@
+autoaudit/
+.autoaudit_keys/
+*.log
+/tmp/autoaudit_*
